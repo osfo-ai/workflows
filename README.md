@@ -1,6 +1,6 @@
-# osfo Workflows
+# Osfo Workflows
 
-osfo Workflows is defining a durable coordination layer for work executed across
+Osfo Workflows is defining a durable coordination layer for work executed across
 replaceable processes, sandboxes, Boxes, and cloud resources.
 
 ## Current state
