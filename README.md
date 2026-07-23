@@ -17,7 +17,7 @@ until the engine choice is resolved.
 
 ## Decision posture
 
-osfo should own its workflow product contracts and its integration with
+Osfo should own its workflow product contracts and its integration with
 heterogeneous execution resources. It has not yet established a need to own the
 entire durable execution engine.
 
